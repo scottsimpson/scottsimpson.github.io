@@ -41,7 +41,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
+  name:                Scott Simpson
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -54,10 +54,10 @@ menu:
     url:               /teaching-lil/
   - title:             Other Teaching
     url:               /teaching-other/
-  - title:             Projects
-    url:               /projects/
-  - title:             Blog
-    url:               /blog/
+  #- title:             Projects
+  #  url:               /projects/
+  #- title:             Blog
+  #  url:               /blog/
 
 
 # Add links to the footer.

@@ -10,4 +10,6 @@ hide_description: true
 
 <!--author-->
 
-More details about me here.
+As a technical content creator, I strive to make technical topics approachable for learners at all levels. I specialize in video and screen-capture delivery.
+
+If you'd like to contact me, please do so through my LinkedIn profile.

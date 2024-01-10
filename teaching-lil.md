@@ -1,15 +1,15 @@
 ---
 layout: page
-title: LinkedIn Learning
+title: LinkedIn Learning Courses
 description: >
   Video training courses that I have created at LinkedIn Learning.
 hide_description: true
 sitemap: false
 ---
 
-# LinkedIn Learning Courses
+I have produced and recorded many LinkedIn Learning video courses on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
 
-I have produced and recorded many LinkedIn Learning video courses on topics including Linux, SQL, Python and Security. To view these courses, you'll need a LinkedIn Premium account. This list is also available at [linkedin.com/learning/scott-simpson](linkedin.com/learning/scott-simpson).
+This list is also available at [linkedin.com/learning/scott-simpson](linkedin.com/learning/scott-simpson).
 
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-19862434) (2023-11-08)
 - [Learning Rsync](https://www.linkedin.com/learning/learning-rsync) (2023-10-23)

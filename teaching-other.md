@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other
+title: Other Teaching
 description: >
   Other teaching efforts.
 hide_description: true
