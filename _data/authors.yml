@@ -15,8 +15,8 @@ author1:
     path:            /assets/img/me-256.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            /assets/img/me-144.png
+      2x:            /assets/img/me-256.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
