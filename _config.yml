@@ -50,8 +50,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Teaching
-    url:               /teaching/
+  - title:             LinkedIn Learning
+    url:               /teaching-lil/
+  - title:             Other Teaching
+    url:               /teaching-other/
   - title:             Projects
     url:               /projects/
   - title:             Blog

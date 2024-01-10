@@ -2,13 +2,12 @@
 layout: page
 title: LinkedIn Learning
 description: >
-  This chapter covers the many configuration options of Hydejack, allowing you to tailor it to your needs.
+  Video training courses that I have created at LinkedIn Learning.
 hide_description: true
 sitemap: false
 ---
 
-LinkedIn Learning Courses
-=====
+# LinkedIn Learning Courses
 
 I have produced and recorded many LinkedIn Learning video courses on topics including Linux, SQL, Python and Security. To view these courses, you'll need a LinkedIn Premium account. This list is also available at [linkedin.com/learning/scott-simpson](linkedin.com/learning/scott-simpson).
 
