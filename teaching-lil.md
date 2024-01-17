@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 ---
 
-I have produced and recorded many LinkedIn Learning video courses on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
+I have produced and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
 
 This list is also available at [linkedin.com/learning/scott-simpson](linkedin.com/learning/scott-simpson).
 
