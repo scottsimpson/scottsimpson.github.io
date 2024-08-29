@@ -9,7 +9,7 @@ sitemap: false
 
 I have produced and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
 
-This list is also available at [linkedin.com/learning/scott-simpson](linkedin.com/learning/scott-simpson).
+This list is also available at [linkedin.com/learning/instructors/scott-simpson](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-19862434) (2023-11-08)
 - [Learning Rsync](https://www.linkedin.com/learning/learning-rsync) (2023-10-23)
