@@ -7,4 +7,8 @@ hide_description: true
 sitemap: false
 ---
 
-# TBD
+# Stanford Continuing Studies
+
+## TECH 19: A Practical Introduction to Python
+
+- Summer 2024
