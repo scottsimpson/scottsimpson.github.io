@@ -4,11 +4,17 @@ title: Courses
 permalink: /courses/
 ---
 
+## Stanford Continuing Studies
+
+I teach _TECH 19 - A Practical Introduction to Python_, a course that covers the basics of Python, for [Stanford Continuing Studies](https://continuingstudies.stanford.edu/). 
+
+The course is offered most quarters, and you can find information about it by searching on the [Stanford Continuing Studies Course Listing](https://continuingstudies.stanford.edu/search/results?ss360Query=tech%2019&x=0&y=0).
+
 ## LinkedIn Learning
 
-I have produced and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
+I have written, produced, and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, IT infrastructure, SQL, Python, and more. To view these courses, you'll need a LinkedIn Premium account. 
 
-This list is also available at [linkedin.com/learning/instructors/scott-simpson](https://www.linkedin.com/learning/instructors/scott-simpson).
+This list is also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
 
@@ -20,7 +26,7 @@ This list is also available at [linkedin.com/learning/instructors/scott-simpson]
 - [Advanced SQL Practice: INSERT Operations](https://www.linkedin.com/learning/advanced-sql-practice-insert-operations) (2025-02-07)
 - [Advanced SQL Practice: UPDATE Database Records](https://www.linkedin.com/learning/advanced-sql-practice-update-database-records) (2025-01-28)
 - [Advanced SQL Practice: Schema Changes](https://www.linkedin.com/learning/advanced-sql-practice-schema-changes) (2025-01-24)
-- [Ubuntu Linux Professional Certificate by Canonical](https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical)
+- [Ubuntu Linux Professional Certificate by Canonical](https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical) (2025)
 
 ### 2024
 
