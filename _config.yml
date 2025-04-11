@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: My Site
+title: scottsimpson.github.io
 #
 author:
   name: Scott Simpson
@@ -10,7 +10,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  A rarely-updated website where I post about various things.
+  I build technical training about Linux, IT, SQL, and Python for learners of all levels.
 
 
 # Build settings
