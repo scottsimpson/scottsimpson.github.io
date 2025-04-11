@@ -5,7 +5,7 @@ categories: courses, new-releases
 modified_date: 2025-04-11
 ---
 
-LinkedIn Learning has released the new _Ubuntu Linux Professional Certificate by Canonical_ learning path and certification exam, covering common topics that Linux professionals need to know to advance their career.
+LinkedIn Learning has released the new _Ubuntu Linux Professional Certificate by Canonical_ learning path and certification exam, covering common topics that aspiring Linux professionals need to know to advance their career.
 
 This exam is based on four of my courses:
 
