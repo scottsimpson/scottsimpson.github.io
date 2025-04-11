@@ -4,10 +4,35 @@ title: Courses
 permalink: /courses/
 ---
 
+## LinkedIn Learning
+
 I have produced and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, SQL, Python, and Security. To view these courses, you'll need a LinkedIn Premium account. 
 
 This list is also available at [linkedin.com/learning/instructors/scott-simpson](https://www.linkedin.com/learning/instructors/scott-simpson).
 
+### 2025
+
+- [Hands-On SQL: Test Your Knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) (2025-03-07)
+- [Ubuntu Linux: Essential Commands and System Administration](https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration) (2025-02-20)
+- [Ubuntu Linux: Providing Services](https://www.linkedin.com/learning/ubuntu-linux-providing-services) (2025-02-18)
+- [Advanced SQL Practice: DELETE Operation](https://www.linkedin.com/learning/advanced-sql-practice-delete-operations) (2025-02-14)
+- [Advanced SQL Practice: Manage Tables](https://www.linkedin.com/learning/advanced-sql-practice-manage-tables) (2025-02-10)
+- [Advanced SQL Practice: INSERT Operations](https://www.linkedin.com/learning/advanced-sql-practice-insert-operations) (2025-02-07)
+- [Advanced SQL Practice: UPDATE Database Records](https://www.linkedin.com/learning/advanced-sql-practice-update-database-records) (2025-01-28)
+- [Advanced SQL Practice: Schema Changes](https://www.linkedin.com/learning/advanced-sql-practice-schema-changes) (2025-01-24)
+- [Ubuntu Linux Professional Certificate by Canonical](https://www.linkedin.com/learning/paths/ubuntu-linux-professional-certificate-by-canonical)
+
+### 2024
+
+- [Linux Security and Hardening Essential Training](https://www.linkedin.com/learning/linux-security-and-hardening-essential-training-24928686) (2024-11-04)
+- [Advanced Analysis Using Python in Excel Copilot](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot) (2024-09-20)
+- [Securing Your Home Office](https://www.linkedin.com/learning/securing-your-home-office-24757393) (2024-09-10)
+- [Microsoft Copilot for Azure SQL Database](https://www.linkedin.com/learning/microsoft-copilot-for-azure-sql-database) (2024-09-05)
+
+### 2023
+
+- [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385) (2023-12-20)
+- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux) (2023-12-15)
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-19862434) (2023-11-08)
 - [Learning Rsync](https://www.linkedin.com/learning/learning-rsync) (2023-10-23)
 - [Python Practice: Operations](https://www.linkedin.com/learning/python-practice-operations) (2023-09-13)
@@ -21,6 +46,9 @@ This list is also available at [linkedin.com/learning/instructors/scott-simpson]
 - [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912) (2023-02-22)
 - [Virtualization with KVM and QEMU](https://www.linkedin.com/learning/virtualization-with-kvm-and-qemu) (2023-01-20)
 - [Mastodon First Look](https://www.linkedin.com/learning/first-look-mastodon) (2023-01-17)
+
+### 2022
+
 - [Security Tips: Metadata](https://www.linkedin.com/learning/security-tips-metadata) (2022-11-16)
 - [Level Up SQL](https://www.linkedin.com/learning/level-up-sql) (2022-11-09)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-17063287) (2022-11-09)
@@ -31,21 +59,28 @@ This list is also available at [linkedin.com/learning/instructors/scott-simpson]
 - [Learning SFTP](https://www.linkedin.com/learning/learning-sftp) (2022-03-03)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh-14571185) (2022-02-10)
 - [Choosing a Linux Distribution](https://www.linkedin.com/learning/choosing-a-linux-distribution) (2022-01-21)
+
+### 2021
+
 - [Security Tips: Browsing the Web](https://www.linkedin.com/learning/security-tips-browsing-the-web) (2021-11-12)
 - [Linux: Network Configuration](https://www.linkedin.com/learning/linux-network-configuration-14257682) (2021-09-15)
 - [Learning WireGuard](https://www.linkedin.com/learning/learning-wireguard) (2021-08-13)
 - [Linux Tips Weekly](https://www.linkedin.com/learning/linux-tips-weekly) (2021-07-13)
 - [Building an Ubuntu Server](https://www.linkedin.com/learning/building-an-ubuntu-server) (2021-06-23)
 - [Security Tips: Protecting Sensitive Information](https://www.linkedin.com/learning/security-tips-protecting-sensitive-information) (2021-05-20)
-- [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385) (2021-03-17)
 - [Building Tools with Python](https://www.linkedin.com/learning/building-tools-with-python) (2021-02-23)
-- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux) (2021-02-19)
+
+### 2020
+
 - [Securing your Home Office](https://www.linkedin.com/learning/securing-your-home-office) (2020-11-17)
 - [Building, Maintaining, and Distributing RPM Packages](https://www.linkedin.com/learning/building-maintaining-and-distributing-rpm-packages) (2020-09-21)
 - [Learning Wi-Fi](https://www.linkedin.com/learning/learning-wi-fi) (2020-09-01)
 - [Learning Windows Terminal](https://www.linkedin.com/learning/learning-windows-terminal) (2020-07-15)
 - [Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-2) (2020-05-18)
 - [Linux: Package Managers and Repositories](https://www.linkedin.com/learning/linux-package-managers-and-repositories) (2020-01-02)
+
+### 2019
+
 - [Learning Debian Linux](https://www.linkedin.com/learning/learning-debian-linux) (2019-11-19)
 - [Learning FreeNAS](https://www.linkedin.com/learning/learning-freenas) (2019-10-17)
 - [Security Tips](https://www.linkedin.com/learning/security-tips) (2019-09-30)
@@ -54,6 +89,9 @@ This list is also available at [linkedin.com/learning/instructors/scott-simpson]
 - [Learning Fedora Linux](https://www.linkedin.com/learning/learning-fedora-linux-2) (2019-05-29)
 - [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2) (2019-03-28)
 - [Learning CentOS Linux](https://www.linkedin.com/learning/learning-centos-linux-2) (2019-03-14)
+
+### 2018 and before
+
 - [Linux Foundation Cert Prep: System Design and Deployment (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-system-design-and-deployment-ubuntu) (2018-11-15)
 - [Linux Foundation Cert Prep: Remote Access (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-remote-access-ubuntu) (2018-07-06)
 - [Linux Foundation Cert Prep: Email Services (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-email-services-ubuntu) (2018-05-22)
