@@ -61,7 +61,6 @@ minima:
   nav_pages:
     - about.md
     - courses.md
-    - projects.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
@@ -82,7 +81,7 @@ minima:
       icon: github
       url: "https://github.com/scottsimpson"
     - title: View my LinkedIn!
-      icon: fa-linkedin
+      icon: linkedin
       url: "https://linkedin.com/in/scotts82"
 #
 #   Hide syndication feed subscription link.
