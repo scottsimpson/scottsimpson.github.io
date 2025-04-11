@@ -21,7 +21,7 @@ This list is also available on [my LinkedIn Instructor page](https://www.linkedi
 - [Hands-On SQL: Test Your Knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) (2025-03-07)
 - [Ubuntu Linux: Essential Commands and System Administration](https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration) (2025-02-20)
 - [Ubuntu Linux: Providing Services](https://www.linkedin.com/learning/ubuntu-linux-providing-services) (2025-02-18)
-- [Advanced SQL Practice: DELETE Operation](https://www.linkedin.com/learning/advanced-sql-practice-delete-operations) (2025-02-14)
+- [Advanced SQL Practice: DELETE Operations](https://www.linkedin.com/learning/advanced-sql-practice-delete-operations) (2025-02-14)
 - [Advanced SQL Practice: Manage Tables](https://www.linkedin.com/learning/advanced-sql-practice-manage-tables) (2025-02-10)
 - [Advanced SQL Practice: INSERT Operations](https://www.linkedin.com/learning/advanced-sql-practice-insert-operations) (2025-02-07)
 - [Advanced SQL Practice: UPDATE Database Records](https://www.linkedin.com/learning/advanced-sql-practice-update-database-records) (2025-01-28)
