@@ -8,7 +8,7 @@ permalink: /courses/
 
 I teach _TECH 19 - A Practical Introduction to Python_, a course that covers the basics of Python, for [Stanford Continuing Studies](https://continuingstudies.stanford.edu/). 
 
-The course is offered most quarters, and you can find information about it by searching on the [Stanford Continuing Studies Course Listing](https://continuingstudies.stanford.edu/search/results?ss360Query=tech%2019&x=0&y=0).
+The course is offered most quarters (most recently in [Winter 2025](https://digital.continuingstudies.stanford.edu/winter-2025)), and you can find information about it by searching on the [Stanford Continuing Studies Course Listing](https://continuingstudies.stanford.edu/search/results?ss360Query=tech%2019&x=0&y=0).
 
 ## LinkedIn Learning
 
