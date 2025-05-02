@@ -18,6 +18,8 @@ This list is also available on [my LinkedIn Instructor page](https://www.linkedi
 
 ### 2025
 
+- [Learning SFTP](https://www.linkedin.com/learning/learning-sftp-29541201)
+- [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training)
 - [Hands-On SQL: Test Your Knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) (2025-03-07)
 - [Ubuntu Linux: Essential Commands and System Administration](https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration) (2025-02-20)
 - [Ubuntu Linux: Providing Services](https://www.linkedin.com/learning/ubuntu-linux-providing-services) (2025-02-18)
