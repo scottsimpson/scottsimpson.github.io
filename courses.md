@@ -14,7 +14,7 @@ The course is offered most quarters (most recently in [Winter 2025](https://digi
 
 I have written, produced, and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, IT infrastructure, SQL, Python, and more. To view these courses, you'll need a LinkedIn Premium account. 
 
-This list is also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
+Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
 
