@@ -17,7 +17,8 @@ I have written, produced, and recorded many LinkedIn Learning video courses, rea
 Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
-
+- [Proxmox Virtual Environment Essential Training](https://www.linkedin.com/learning/proxmox-virtual-environment-essential-training)
+- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777)
 - [Learning SFTP](https://www.linkedin.com/learning/learning-sftp-29541201)
 - [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training)
 - [Hands-On SQL: Test Your Knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) (2025-03-07)
