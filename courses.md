@@ -17,6 +17,7 @@ I have written, produced, and recorded many LinkedIn Learning video courses, rea
 Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)
 - [Building a Home IT Lab](https://www.linkedin.com/learning/building-a-home-it-lab-26165197)
 - [Proxmox Virtual Environment Essential Training](https://www.linkedin.com/learning/proxmox-virtual-environment-essential-training)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777)
