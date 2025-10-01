@@ -8,15 +8,16 @@ permalink: /courses/
 
 I teach _TECH 19 - A Practical Introduction to Python_, a course that covers the basics of Python, for [Stanford Continuing Studies](https://continuingstudies.stanford.edu/). 
 
-The course is offered most quarters (most recently in [Summer 2025](https://digital.continuingstudies.stanford.edu/summer-2025)), and you can find information about it by viewing the [course description](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/a-practical-introduction-to-python/20244_TECH-19).
+The course is offered as scheduling allows (most recently in [Summer 2025](https://digital.continuingstudies.stanford.edu/summer-2025)), and you can find information about it by viewing the [course description](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/a-practical-introduction-to-python/20244_TECH-19).
 
 ## LinkedIn Learning
 
-I have written, produced, and recorded many LinkedIn Learning video courses, reaching over 2.6 million learners, on topics including Linux, IT infrastructure, SQL, Python, and more. To view these courses, you'll need a LinkedIn Premium account. 
+I have written, produced, and recorded many LinkedIn Learning video courses, reaching millions of learners, on topics including Linux, IT infrastructure, SQL, Python, and more. To view these courses, you'll need a LinkedIn Premium account. 
 
 Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
+- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux-26985522)
 - [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)
 - [Building a Home IT Lab](https://www.linkedin.com/learning/building-a-home-it-lab-26165197)
 - [Proxmox Virtual Environment Essential Training](https://www.linkedin.com/learning/proxmox-virtual-environment-essential-training)
