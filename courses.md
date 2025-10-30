@@ -17,6 +17,7 @@ I have written, produced, and recorded many LinkedIn Learning video courses, rea
 Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
+- [Learning VPN](https://www.linkedin.com/learning/learning-vpn-27801083)
 - [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux-26985522)
 - [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)
 - [Building a Home IT Lab](https://www.linkedin.com/learning/building-a-home-it-lab-26165197)
