@@ -118,10 +118,10 @@ Links to my courses are also available on [my LinkedIn Instructor page](https://
 - [Linux Foundation Cert Prep: Network Filesystems and File Services (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-network-filesystems-and-file-services-ubuntu) (2018-03-07)
 - [Linux Foundation Cert Prep: Service Configuration (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-service-configuration-ubuntu) (2018-02-26)
 - [Linux Foundation Cert Prep: Networking (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-networking-ubuntu) (2018-01-08)
-- [Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-2017) (2017-11-17)
 
 ## 2017
 
+- [Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-2017) (2017-11-17)
 - [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-virtualization-ubuntu) (2017-10-23)
 - [Linux Foundation Cert Prep: User and Group Management (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-user-and-group-management-ubuntu) (2017-08-30)
 - [Linux Foundation Cert Prep: Storage Management (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-storage-management-ubuntu) (2017-08-11)
