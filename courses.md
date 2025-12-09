@@ -17,14 +17,14 @@ I have written, produced, and recorded many LinkedIn Learning video courses, rea
 Links to my courses are also available on [my LinkedIn Instructor page](https://www.linkedin.com/learning/instructors/scott-simpson).
 
 ### 2025
-- [Learning VPN](https://www.linkedin.com/learning/learning-vpn-27801083)
-- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux-26985522)
-- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)
-- [Building a Home IT Lab](https://www.linkedin.com/learning/building-a-home-it-lab-26165197)
-- [Proxmox Virtual Environment Essential Training](https://www.linkedin.com/learning/proxmox-virtual-environment-essential-training)
-- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777)
-- [Learning SFTP](https://www.linkedin.com/learning/learning-sftp-29541201)
-- [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training)
+- [Learning VPN](https://www.linkedin.com/learning/learning-vpn-27801083) (2025-10-30)
+- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux-26985522) (2025-10-01)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217) (2025-08-29)
+- [Building a Home IT Lab](https://www.linkedin.com/learning/building-a-home-it-lab-26165197) (2025-07-31)
+- [Proxmox Virtual Environment Essential Training](https://www.linkedin.com/learning/proxmox-virtual-environment-essential-training) (2025-07-21)
+- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777) (2025-07-01)
+- [Learning SFTP](https://www.linkedin.com/learning/learning-sftp-29541201) (2025-05-01)
+- [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training) (2025-04-22)
 - [Hands-On SQL: Test Your Knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge) (2025-03-07)
 - [Ubuntu Linux: Essential Commands and System Administration](https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration) (2025-02-20)
 - [Ubuntu Linux: Providing Services](https://www.linkedin.com/learning/ubuntu-linux-providing-services) (2025-02-18)
@@ -103,9 +103,13 @@ Links to my courses are also available on [my LinkedIn Instructor page](https://
 - [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2) (2019-03-28)
 - [Learning CentOS Linux](https://www.linkedin.com/learning/learning-centos-linux-2) (2019-03-14)
 
-### 2018 and before
+### 2018
 
 - [Linux Foundation Cert Prep: System Design and Deployment (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-system-design-and-deployment-ubuntu) (2018-11-15)
+- [Kali Linux on Window 10 First Look](https://www.linkedin.com/learning/kali-linux-on-windows-10-first-look) (2018-10-04)
+- [Learning Ubuntu Server](https://www.linkedin.com/learning/learning-ubuntu-server) (2018-08-24)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2018) (2018-08-16)
+- [Learning Ubuntu Desktop](https://www.linkedin.com/learning/learning-ubuntu-desktop-2018) (2018-08-02)
 - [Linux Foundation Cert Prep: Remote Access (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-remote-access-ubuntu) (2018-07-06)
 - [Linux Foundation Cert Prep: Email Services (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-email-services-ubuntu) (2018-05-22)
 - [Linux Foundation Cert Prep: HTTP Services (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-http-services-ubuntu) (2018-05-07)
@@ -114,11 +118,44 @@ Links to my courses are also available on [my LinkedIn Instructor page](https://
 - [Linux Foundation Cert Prep: Network Filesystems and File Services (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-network-filesystems-and-file-services-ubuntu) (2018-03-07)
 - [Linux Foundation Cert Prep: Service Configuration (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-service-configuration-ubuntu) (2018-02-26)
 - [Linux Foundation Cert Prep: Networking (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-networking-ubuntu) (2018-01-08)
+- [Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-2017) (2017-11-17)
+
+## 2017
+
 - [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-virtualization-ubuntu) (2017-10-23)
 - [Linux Foundation Cert Prep: User and Group Management (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-user-and-group-management-ubuntu) (2017-08-30)
 - [Linux Foundation Cert Prep: Storage Management (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-storage-management-ubuntu) (2017-08-11)
+- [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-2017) (2017-07-17)
 - [Linux Foundation Cert Prep: Operation of Running Systems (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-operation-of-running-systems-ubuntu) (2017-06-15)
 - [Linux Foundation Cert Prep: Essential Commands (Ubuntu)](https://www.linkedin.com/learning/linux-foundation-cert-prep-essential-commands-ubuntu) (2017-05-16)
+- [Building an Ubuntu Server](https://www.linkedin.com/learning/building-an-ubuntu-home-server-2017) (2017-05-03)
+- [Browsing the Web Securely](https://www.linkedin.com/learning/browsing-the-web-securely) (2017-04-26)
 - [Linux: System Maintenance](https://www.linkedin.com/learning/linux-system-maintenance) (2017-03-22)
+- [Linux: Package Managers and Repositories](https://www.linkedin.com/learning/linux-package-managers-and-repositories) (2017-02-27)
 - [Linux: File Sharing Services](https://www.linkedin.com/learning/linux-file-sharing-services) (2017-01-30)
+
+## 2016
+
 - [Linux: Web Services](https://www.linkedin.com/learning/linux-web-services) (2016-12-14)
+- [Linux: Network Configuration](https://www.linkedin.com/learning/linux-network-configuration-2016) (2016-11-14)
+- [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line) (2016-10-21)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2016) (2016-03-24)
+
+## 2015
+
+- [Learning Google Apps Script](https://www.linkedin.com/learning/learning-google-apps-script) (2015-09-24)
+- [Learning nano](https://www.linkedin.com/learning/learning-nano) (2015-03-02)
+- [Learning Fedora Linux](https://www.linkedin.com/learning/learning-fedora-linux-2015) (2015-02-24)
+
+## 2014
+
+- [Learning SSH](https://www.linkedin.com/learning/learning-ssh-2014) (2014-12-09)
+- [Learning FTP](https://www.linkedin.com/learning/learning-ftp) (2014-12-04)
+- [Learning CentOS Linux](https://www.linkedin.com/learning/learning-centos-linux-2014) (2014-08-28)
+- [Learning Ubuntu Desktop Linux](https://www.linkedin.com/learning/learning-ubuntu-desktop-linux-2014) (2014-06-25)
+- [Learning AppleScript](https://www.linkedin.com/learning/learning-applescript) (2014-03-24)
+
+## 2013
+
+- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2013) (2013-11-26)
+- [Learning Google Apps Script](https://www.linkedin.com/learning/learning-google-apps-script-2013) (2013-09-13)
